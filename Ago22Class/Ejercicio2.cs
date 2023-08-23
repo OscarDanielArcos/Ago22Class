@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace Ago22Class
 {
-    internal class Ejercicio1
+    internal class Ejercicio2
     {
-        public static void ExecuteExercise1() {
-            Console.WriteLine("Ingrese ");
+        public static void ExecuteExercise2() { 
         }
     }
 }
