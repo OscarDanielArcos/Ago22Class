@@ -4,10 +4,14 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Elija de 1 - 3 la opcion que desea: ");
-            string option; 
+            Console.WriteLine("Elija de 1 - 3 la     opcion que desea: ");
+            Console.WriteLine("Opción 1: Porcentaje de hombre y mujeres de un grupo");
+            Console.WriteLine("Opción 2: Cálculo del área y perímetro de un rectángulo");
+            Console.WriteLine("Opción 3: Conversión de Fahrenheit a Celcius");
+
+            string option;
             option = Console.ReadLine();
-            Console.WriteLine("Ha elegido la opcioón: " + option);
+            Console.WriteLine("Ha elegido la opción: " + option);
             switch (option)
             {
                 case "1":
