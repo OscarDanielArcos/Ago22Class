@@ -9,8 +9,10 @@ namespace Ago22Class
 {
     internal class Ejercicio2
     {
-        public static void ExecuteExercise2() {           
-            
+        public static void ExecuteExercise2() {
+
+            //Diseñar un algoritmo que imprima el área y el perímetro de un rectángulo ingresando su base y altura. 
+
             int b;
             Console.WriteLine("Ingrese la base del rectangulo: ");
             b=int.Parse(Console.ReadLine());

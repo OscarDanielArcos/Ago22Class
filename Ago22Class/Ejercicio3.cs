@@ -10,7 +10,7 @@ namespace Ago22Class
     {
         public static void ExecuteExercise3() {
 
-            /*13. Diseñar un algoritmo que convierta y muestre la temperatura en Fahrenheit ingresando la temperatura en Celsius. */
+            //Diseñar un algoritmo que convierta y muestre la temperatura en Fahrenheit ingresando la temperatura en Celsius. */
 
             Console.WriteLine("Ingrese una temperatura en grados Celsius");
             int celcius, fahrenheit;
